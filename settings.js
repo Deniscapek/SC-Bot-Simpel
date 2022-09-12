@@ -3,7 +3,11 @@ const chalk = require('chalk')
 
 // Free Apikey
 global.APIs = {
-	riy: 'https://api-xriy04.herokuapp.com',
+	frteam: 'https://restapi.frteam.xyz',
+}
+// Apikey Website Api
+global.APIKeys = {
+	'https://restapi.frteam.xyz': 'iO3zdpcq',
 }
 
 // Other
